@@ -5,12 +5,20 @@ Module 4
 The purpose of this Challenge is to update the school data to exclude scores impacted by academic dishonesty and to determine how these changes impact the overall analysis.
 
 ## Results
-Using bulleted lists and images of DataFrames as support, address the following questions.
+**ORIGINAL DISTRICT SUMMARY**
+![Original District Summary](Resources/Original_District_Summary.png)
+**UPDATED DISTRICT SUMMARY**
+![Updated District Summary](Resources/Updated_District_Summary.png)
+
+**ORIGINAL PER SCHOOL SUMMARY**
+![Original Per School Summary](Resources/Original_Per_School_Summary.png)
+**UPDATED PER SCHOOL SUMMARY**
+![Updated Per School Summary](Resources/Updated_Per_School_Summary.png)
 
 - How is the district summary affected?
   - The percentage of students passing math decreased by 0.2%
-  - The percentage of students passing reading decresed by 0.1%
-  - The percentage of students passing overall decreased by 0.3%
+  - The percentage of students passing reading decresed by 0.3%
+  - The percentage of students passing overall decreased by 0.1%
 - How is the school summary affected?
   -  Average math score decreased 0.07 points
   -  Average reading score increased 0.05 points
